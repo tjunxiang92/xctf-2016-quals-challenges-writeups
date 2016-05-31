@@ -1,0 +1,5 @@
+Through this page the programming language could be Befuge or Malboge
+http://tutorialzine.com/2013/12/the-10-weirdest-programming-languages/
+
+Trying one got the flag
+XCTF{O_Malbolge_Wh3r3_Ar7_Th0u}

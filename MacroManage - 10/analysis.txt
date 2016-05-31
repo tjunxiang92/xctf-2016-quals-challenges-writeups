@@ -1,0 +1,9 @@
+MacroManage - 10
+
+Open file in VB and see that it generates an exe file
+put it in IDA Pro and see that the password is 
+m@c4r0n 
+
+Run it and the flag is there
+
+XCTF{hOw_t0_m@cr0M4n4g3_1n_0fF1c3}

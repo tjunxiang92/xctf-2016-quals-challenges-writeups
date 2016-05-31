@@ -1,0 +1,12 @@
+Search for the string "Naa Naa" in IDA Pro
+There was a jump to the function
+replace it with the inverse
+and compile it with a hex editor
+
+run it and get 
+RUA1eV9QM0A1eV9MaWszX0wzbTBuX1NxdTMzenk=
+
+base64 decode and there is the flag
+
+
+XCTF{E@5y_P3@5y_Lik3_L3m0n_Squ33zy}

@@ -1,0 +1,9 @@
+Morse Code???
+Binary???
+All too many computations to be done
+
+Next was it was telephone tones.
+Remember in the past, letters were key in with a 9 letter keyboard
+Using Audacity to check each frequency, it can be mapped to a number and there is the key
+
+XCTF{welov3r3trostuff}

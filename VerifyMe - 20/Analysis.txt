@@ -1,0 +1,8 @@
+Decompiled APK File
+found the method RetrieveX
+
+poseidon    23090f18240b0f1d0a181c
+zeus    1e12080e101521251f1d12140b
+hades    1921131e0d231016231e1a1a1e08210e106e
+
+But should be done with patching
